@@ -32,7 +32,7 @@
     <li><a href=":;">jQuery Case</a>
         <ul>
             <li>
-                <i class="fa fa-star" aria-hidden="true"></i>
+                <i style="color:green;">♥</i>
                 <a href="https://github.com/YingshanGuo/shoppingmall" target="_blank">电商购物平台 Shoppingmall(无演示，正在备案域名)</a>
             </li>
         </ul>
@@ -41,11 +41,3 @@
     <li><a href="" target="_blank"></a></li>
     <li><a href="" target="_blank"></a></li>
 </ul>
-
-<link href="./css/font-awesome.css" rel="stylesheet" type="text/css"/>        
-
->>> from markdown import Markdown
-
->>> markdown = Markdown(extensions=['fontawesome_markdown']
->>> markdown.convert('i ♥ :fa-coffee:')
-<p>i ♥ <i class="fa fa-coffee"></i></p>
