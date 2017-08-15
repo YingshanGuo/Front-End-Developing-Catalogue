@@ -32,7 +32,7 @@
     <li><a href=":;">jQuery Case</a>
         <ul>
             <li>
-                <i style="color:green;">♥</i>
+                <i>♥</i>
                 <a href="https://github.com/YingshanGuo/shoppingmall" target="_blank">电商购物平台 Shoppingmall(无演示，正在备案域名)</a>
             </li>
         </ul>
