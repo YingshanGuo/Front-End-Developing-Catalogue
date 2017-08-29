@@ -33,8 +33,8 @@
         <ul>
             <li>
                 <i>♥</i>电商购物平台 Shoppingmall
-                <a href="http://yokokuok.xin" target="_blank">website</a>
-                <a href="https://github.com/YingshanGuo/shoppingmall" target="_blank">code</a>
+                <a href="http://yokokuok.xin" target="_blank">网站website</a>
+                <a href="https://github.com/YingshanGuo/shoppingmall" target="_blank">实现代码code</a>
             </li>
         </ul>
     </li>
